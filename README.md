@@ -1,2 +1,2 @@
-# CS251
+# CS-251
 All my projects for my UIC CS 251 (Data Structures) class. 
